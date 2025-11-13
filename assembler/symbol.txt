@@ -1,0 +1,5 @@
+
+Symbol Table:
+L1	100
+X	107
+Y	108
